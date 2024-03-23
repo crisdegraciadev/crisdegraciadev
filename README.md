@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-## Hi there!👋
+# Hi there!👋
 I'm Cristian, a passionate software engineer and computed engineer deeply invested in crafting elegant solutions by writing clean and maintainable code
 
 ## 🔧 I solve problems with
